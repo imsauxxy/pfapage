@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-hamkbnvg.manus.space	TRUE	/	FALSE	1999999999	__cf_bm	TEuiWYHeO4FJ5iGqTIXmrMM5Bq4_F_LODIw3HJuqENY-1748642759-1.0.1.1-lGPzlNOwaVf22wkfpPLniJN3pxQ6r6hoAlh8fu3ohvKNmAEfSloJq_AWf8gemba2Jn96BYkywwyeGcHJi1ABK3xvol8obMoDn1xETzJCrGc
-manus.space	TRUE	/	FALSE	1999999999	SameSite	None
-
